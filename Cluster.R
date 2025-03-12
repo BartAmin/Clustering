@@ -115,7 +115,7 @@ indices$dunn2 <- c(
   cluster_stats(dissimilarity_matrix, cluster_optics, noise_index_optics, "dunn2")
 )
 
-# Compute Between-Within Ratios, convert to Within-Between
+# Compute Within-Between Ratios, convert to Between-Within
 # The higher the value the better the cluster quality
 indices$between_within <- c(
   1 / cluster.stats(dissimilarity_matrix, cluster_kmeans)$wb.ratio,
