@@ -8,7 +8,7 @@ It provides visualization tools and computes cluster quality metrics to assess c
 - **Centroid-based clustering**: K-Means  
 - **Hierarchical-based clustering**: Agglomerative Hierarchical Clustering (AHC)  
 - **Distribution-based clustering**: Gaussian Mixture Models (GMM)  
-- **Density-based clustering**: OPTICS & DBSCAN
+- **Density-based clustering**: OPTICS & HDBSCAN
 
 # Choosing optimal number of clusters
 
