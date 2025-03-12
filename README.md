@@ -5,10 +5,10 @@ It provides visualization tools and computes cluster quality metrics to assess c
 
 # The script fits multiple clustering methods, categorized as follows:
 
-Centroid-based clustering: K-Means
-Hierarchical-based clustering: Agglomerative Hierarchical Clustering (AHC)
-Distribution-based clustering: Gaussian Mixture Models (GMM)
-Density-based clustering: OPTICS & DBSCAN
+- **Centroid-based clustering**: K-Means  
+- **Hierarchical-based clustering**: Agglomerative Hierarchical Clustering (AHC)  
+- **Distribution-based clustering**: Gaussian Mixture Models (GMM)  
+- **Density-based clustering**: OPTICS & DBSCAN
 
 # Choosing optimal number of clusters
 
